@@ -1,17 +1,17 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+  <img alt="Letmeask" src="./src/assets/images/logo.svg" width="160px">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=8257E5&labelColor=000000" alt="NLW Together 06" />
   
-  <img src="https://img.shields.io/github/stars/rocketseat-education/nlw-06-reactjs?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
+  <img src="https://img.shields.io/github/stars/marcelohaubrih/rocketseat-nlw-06-reactjs?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
 
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
+    <img alt="Letmeask" src="./src/assets/images/cover.svg" />
 </h1>
 
 <br>
@@ -29,8 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/marcelohaubrih/rocketseat-nlw-06-reactjs
+$ cd rocketseat-nlw-06-reactjs
 ```
 
 Para iniciá-lo, siga os passos abaixo:
@@ -64,11 +64,10 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
----
-
-Feito em aula ministrada por Diego by Rocketseat 👋🏻 
-
-## Consultas
+## 🔎 Consultas
 
 TOAST : 
 (https://react-hot-toast.com/)
+---
+
+Feito por Marcelo Haubrih em aula ministrada por Diego by Rocketseat 👋🏻 
